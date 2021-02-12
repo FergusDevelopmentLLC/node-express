@@ -1,4 +1,0 @@
-https://expressjs.com/
-https://github.com/mapbox/node-sqlite3
-https://www.sqlitetutorial.net/sqlite-nodejs/
-https://sequelize.org/
